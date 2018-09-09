@@ -5,6 +5,7 @@
 To install this package :  PM><i>Install-Package Org.Apollo.Utility</i></i><br><br>
 <ul>
 	<li>Mail : Sending mail using smtp configuration is very by using this lib.</li>
+	<li>Internet : Check if IsInternetConnectionActive or not.</li>
 </ul>
 <br><br>
 Many more to come. 
