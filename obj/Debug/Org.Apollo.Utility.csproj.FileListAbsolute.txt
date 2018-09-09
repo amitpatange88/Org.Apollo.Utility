@@ -1,0 +1,4 @@
+C:\E\VS-Programs\Org.Apollo\Org.Apollo.Utility\Org.Apollo.Utility\bin\Debug\Org.Apollo.Utility.dll
+C:\E\VS-Programs\Org.Apollo\Org.Apollo.Utility\Org.Apollo.Utility\bin\Debug\Org.Apollo.Utility.pdb
+C:\E\VS-Programs\Org.Apollo\Org.Apollo.Utility\Org.Apollo.Utility\obj\Debug\Org.Apollo.Utility.dll
+C:\E\VS-Programs\Org.Apollo\Org.Apollo.Utility\Org.Apollo.Utility\obj\Debug\Org.Apollo.Utility.pdb

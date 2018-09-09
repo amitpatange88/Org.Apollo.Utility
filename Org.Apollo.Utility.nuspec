@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Org.Apollo.Utility</id>
+    <version>0.0.0.1</version>
+    <authors>Amit Patange</authors>
+    <owners>Amit Patange</owners>
+    <licenseUrl>https://github.com/amitpatange88/Org.Apollo.Utility</licenseUrl>
+    <projectUrl>https://github.com/amitpatange88/Org.Apollo.Utility</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/amitpatange88/icons/master/Org.Apollo.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Org.Apollo.Utility lib is for common most used utility programs in .NET.</description>
+    <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
+    <copyright>Copyright 2018</copyright>
+    <tags>Org.Apollo.Utility</tags>
+    <dependencies></dependencies>
+  </metadata>
+  <files>
+    <file src="bin\Debug\Org.Apollo.Utility.dll" target ="lib"></file>
+  </files>
+</package>
