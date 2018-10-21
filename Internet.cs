@@ -14,7 +14,7 @@ namespace Org.Apollo.Utility
             try
             {
                 using (var client = new WebClient())
-                using (client.OpenRead("http://example.com/"))
+                using (client.OpenRead("https://www.google.com/"))
                 {
                     return true;
                 }
