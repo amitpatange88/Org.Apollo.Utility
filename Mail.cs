@@ -27,6 +27,7 @@ namespace Org.Apollo.Utility
             _client.Host = Host;
             mail.Subject = Subject;
             mail.Body = Body;
+            mail.IsBodyHtml = true;
 
             //Send mail.
             _client.Send(mail);

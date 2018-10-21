@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>Org.Apollo.Utility</id>
-    <version>0.0.0.3</version>
+    <version>0.0.0.4</version>
     <authors>Amit Patange</authors>
     <owners>Amit Patange</owners>
     <licenseUrl>https://github.com/amitpatange88/Org.Apollo.Utility</licenseUrl>
@@ -10,7 +10,7 @@
     <iconUrl>https://raw.githubusercontent.com/amitpatange88/icons/master/Org.Apollo.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Org.Apollo.Utility lib is for common most used utility programs in .NET.</description>
-    <releaseNotes>FileUtility class added for HostLive system file operations.</releaseNotes>
+    <releaseNotes>We can now able to send HTML body through Mail utility classes.</releaseNotes>
     <copyright>Copyright 2018</copyright>
     <tags>Org.Apollo.Utility</tags>
     <dependencies></dependencies>
