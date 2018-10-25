@@ -2,7 +2,7 @@
 
 namespace Org.Apollo.Utility
 {
-    class Internet
+    public class Internet
     {
         /// <summary>
         /// This checks if internet connection is ACTIVE or not.
